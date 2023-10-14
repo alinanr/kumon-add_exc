@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "897917777653",
+    "project_id": "data-login-f26b6",
+    "storage_bucket": "data-login-f26b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:897917777653:android:174d8c15488460e2ae37bc",
+        "android_client_info": {
+          "package_name": "com.example.kumon_addexc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "897917777653-ici8fg32oekd44vnoqqke6pdr3m6n18a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGqOP_Q5NNmvMIUl3Zg7a78y5BecKRl6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "897917777653-ici8fg32oekd44vnoqqke6pdr3m6n18a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
